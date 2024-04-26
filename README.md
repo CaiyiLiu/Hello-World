@@ -1,8 +1,8 @@
 # Hello-World
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# This is a 1st-level tag
+## This is a 2ns-level tag
+###### This is a 6th-level tag
 
 * Item 1
 * Item 2
@@ -28,6 +28,6 @@ As Grace Hopper said:
 > I've always been more interested
 > in the future than in the past.
 
-```javascript
+```python
 printf('hello world');
 ```
